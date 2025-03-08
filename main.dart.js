@@ -96872,7 +96872,7 @@ A.aCx.prototype={
 $0(){var s=0,r=A.u(t.H),q=this
 var $async$$0=A.v(function(a,b){if(a===1)return A.q(b,r)
 while(true)switch(s){case 0:s=2
-return A.l(q.a.wI("https://tmoll.xyz/privacy-policy.html"),$async$$0)
+return A.l(q.a.wI("https://shop.tmoll.xyz/privacy-policy.html"),$async$$0)
 case 2:return A.r(null,r)}})
 return A.t($async$$0,r)},
 $S:7}
